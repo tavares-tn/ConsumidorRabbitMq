@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = consumer
+build_property.ProjectDir = D:\Tavares\Projetos\CSharp\ConsumidorRabbitMq\consumer\

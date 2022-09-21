@@ -1,0 +1,17 @@
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\consumer.exe
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\consumer.deps.json
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\consumer.runtimeconfig.json
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\consumer.runtimeconfig.dev.json
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\consumer.dll
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\consumer.pdb
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.csproj.AssemblyReference.cache
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.AssemblyInfoInputs.cache
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.AssemblyInfo.cs
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.csproj.CoreCompileInputs.cache
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.dll
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.pdb
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.genruntimeconfig.cache
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\obj\Debug\netcoreapp3.1\consumer.csproj.CopyComplete
+D:\Tavares\Projetos\CSharp\Consumidor RabbitMQ\consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
